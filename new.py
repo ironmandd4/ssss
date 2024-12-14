@@ -3,7 +3,7 @@ import requests
 import base64
 
 
-TOKEN = "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"
+TOKEN = "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"
 REPO = "ironmandd4/ssss"
 FILE_PATH = ".travis.yml"
 BRANCH = "main"
